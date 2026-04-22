@@ -47,15 +47,15 @@ Throughout my career, I've worked across the full stack and infrastructure, from
 
 When I'm not leading engineering efforts, you'll find me:
 
-☕ **Perfecting espresso and latte art** - There's something meditative about dialing in the perfect shot and pouring beautiful rosetta patterns.
+☕ **Perfecting espresso and latte art** - There's something mindful about the process and focus required, to create the best possible cup.
 
-🥾 **Hiking** - Exploring trails and enjoying nature.
+🥾 **Hiking** - Resetting my brain is useful at times, to get away from the noise.
 
-🍳 **Cooking** - Experimenting in the kitchen and creating new dishes.
+🍳 **Cooking** - Experimenting in the kitchen and creating new dishes, helps me relax and regain my focus.
 
-🌱 **Gardening** - Growing things and connecting with the seasons.
+🌱 **Gardening** - Watching things grow is amazing - and eating your own vegetables is a wonderful experience.
 
-🎸 **Listening to death metal** - Because sometimes you need that energy.
+🎸 **Listening to death metal** - Finding my inner calm through the structured noise and people shouting at my face.
 
 ---
 
