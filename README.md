@@ -18,11 +18,9 @@ I am a **Lead Engineer** at **The LEGO Group**, based in Odense, Denmark ðŸ‡©ðŸ‡
 
 My work focuses on building scalable systems and leading teams to deliver technical excellence. I believe that great software comes from a foundation of strong architectural decisions, clean code, and a commitment to continuous improvement.
 
-Throughout my career, I've worked across the full stack and infrastructure, from backend services and APIs to containerized deployments. I'm passionate about helping teams build systems that are not just functional, but maintainable, performant, and a joy to work with.
+Throughout my career, I've worked across the full stack and infrastructure, from backend services and APIs to containerized deployments at massive scale. I'm passionate about helping teams build systems that are not just functional, but maintainable, performant, scalable and a joy to work with.
 
 ### Technical Expertise
-
-I specialize in building robust, scalable systems using modern technologies and best practices.
 
 **Languages & Frameworks**
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
